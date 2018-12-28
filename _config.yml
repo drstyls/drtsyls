@@ -1,14 +1,14 @@
 # Site/SEO settings
-email: thomas.vaeth@gmail.com
+email: drstyls@gmail.com
 permalink: /:year/:month/:title/
 google_analytics: UA-57782903-1
 
-name: Thomas Vaeth
-title: Thomas Vaeth
+name: Ramability
+title: Dr Styls
 description: >
-  My name is Thomas Vaeth. I am front-end developer based in Seattle, Washington. I currently work at Getty Images and have previously worked at Urban Influence.
-url: http://thomasvaeth.com
-twitter_username: thomasvaeth
+  My name is Ramability. I am fashion eunthiast based in Dar, TZ. I currently study dentistry at MUHAS and have great interest in tech and biz.
+url: http://drstyls.tk
+twitter_username: dr_styls
 default_img: http://thomasvaeth.com/assets/images/me.jpg
 
 # Build settings
